@@ -1,5 +1,5 @@
 # Tools
-工作中的各种工具集
+工作中的各种工具集，包括免费API等
 ## 编辑器
 sublime、webstorm、phpstorm、atom、VS Code、Vim、Emacs....
 
