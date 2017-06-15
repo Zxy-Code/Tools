@@ -142,3 +142,7 @@ PS、AI
  [天狗医院大全 ](http://apistore.baidu.com/apiworks/servicedetail/988.html)
  
  [生活健康]( http://apistore.baidu.com/apiworks/servicedetail/989.html)
+
+ - 外国新闻资源
+ 
+ [News Api](https://newsapi.org/)
