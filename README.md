@@ -14,30 +14,53 @@ PS、AI
 
 ## 免费API
  - 聚合的免费API接口数据：
+ 
 [手机号码归属地API接口](https://www.juhe.cn/docs/api/id/11)
 
 [历史上的今天API接口](https://www.juhe.cn/docs/api/id/63)
+
 [股票数据API接口](https://www.juhe.cn/docs/api/id/21)
+
 [全国WIFI接口](https://www.juhe.cn/docs/api/id/18)
+
 [星座运势接口](https://www.juhe.cn/docs/api/id/58)
+
 [黄金数据接口](https://www.juhe.cn/docs/api/id/29)
+
 [语音识别接口](https://www.juhe.cn/docs/api/id/134)
+
 [周公解梦接口](https://www.juhe.cn/docs/api/id/64)
+
 [天气预报API接口](https://www.juhe.cn/docs/api/id/73)
+
 [身份证查询API接口](https://www.juhe.cn/docs/api/id/38)
+
 [笑话大全API接口](https://www.juhe.cn/docs/api/id/95)
+
 [邮编查询接口](https://www.juhe.cn/docs/api/id/66)
+
 [老黄历接口](https://www.juhe.cn/docs/api/id/65)
+
 [网站安全检测接口](https://www.juhe.cn/docs/api/id/19)
+
 [手机固话来电显示接口](https://www.juhe.cn/docs/api/id/72)
+
 [基金财务数据接口](https://www.juhe.cn/docs/api/id/28)
+
 [成语词典接口](https://www.juhe.cn/docs/api/id/157)
+
 [新闻头条接口](https://www.juhe.cn/docs/api/id/235)
+
 [IP地址接口](https://www.juhe.cn/docs/api/id/1)
+
 [问答机器人接口](https://www.juhe.cn/docs/api/id/112)
+
 [汇率API接口](https://www.juhe.cn/docs/api/id/80)
+
 [电影票房接口](https://www.juhe.cn/docs/api/id/44)
+
 [万年历API接口](https://www.juhe.cn/docs/api/id/177)
+
 [NBA赛事接口](https://www.juhe.cn/docs/api/id/92)
 
  - 百度 api集市免费接口
